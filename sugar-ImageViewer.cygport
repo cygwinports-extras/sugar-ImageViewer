@@ -1,0 +1,5 @@
+NAME="sugar-ImageViewer"
+VERSION=54
+RELEASE=1
+SUGAR_TYPE="Fructose"
+inherit sugar
